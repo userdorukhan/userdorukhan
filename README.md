@@ -48,7 +48,6 @@ I'm a junior **Electrical Engineering & Computer Science (EECS)** student at **U
 
 - 📧 [dorukhanuser@gmail.com](mailto:dorukhanuser@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dorukhanuser)  
-- 💻 [GitHub](https://github.com/userdorukhan)
 
 ---
 
