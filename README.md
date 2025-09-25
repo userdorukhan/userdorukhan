@@ -26,6 +26,10 @@ I'm a junior **Electrical Engineering & Computer Science (EECS)** student at **U
 
 ## 🚗 Projects & Clubs
 
+- **Engineering Solutions at Berkeley (ESB)** – Engineering Consultant  
+  - Delivering professional electrical and embedded-systems solutions for real-world client projects.  
+  - Provide system design, PCB development, and firmware integration for multi-disciplinary teams.
+
 - **Formula Electric at Berkeley (FEB)** – Electrical & Software  
   - Wrote driver-interface firmware for the DASH screen, enabling reliable CAN bus communication.  
   - Designed and tested STM32-based sensor nodes (IMU, coolant flow, air temp) for real-time telemetry.
